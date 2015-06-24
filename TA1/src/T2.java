@@ -4,6 +4,8 @@ public class T2 {
 		System.out.println("asdasds");
 		System.out.println("asdasds");
 		System.out.println("asdasds");
+		System.out.println("asdasds");
+		System.out.println("asdasds");
 	}
 
 }
